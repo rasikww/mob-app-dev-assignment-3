@@ -94,3 +94,20 @@ flutter run
 | ![Light Theme](assets/images/light_theme.png) | ![Dark Theme](assets/images/dark_theme.png) |
 
 ---
+
+## How to Use
+
+- **Product Listing:**
+
+  - Launch the app to see a list of products.
+  - Each product displays its name, price, and an image.
+
+- **Shopping Cart:**
+
+  - Add desired product to the cart using `add to cart` button.
+  - Access the cart using the `cart icon` in the app bar.
+  - Modify quantities, remove items, or clear the cart.
+
+- **Dark Mode:**
+
+  - Use the `switch` in the app bar to toggle between light and dark themes.
